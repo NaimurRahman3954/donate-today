@@ -143,12 +143,19 @@ hr{
 
 .image-half{
    height: 400px;
-   background-image: url(./images/donation8.jpg);
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
    background-color: yellow;
    border-radius: 5px;
+}
+
+.donation .image-half{
+   background-image: url(./images/donation8.jpg);
+}
+
+.survive .image-half{
+   background-image: url(./images/donation13.jpg);
 }
 
 .survive{
